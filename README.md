@@ -1,4 +1,4 @@
-# SuperStore-Sales-Dashboard_PowerBI
+# Super Store-Sales-Dashboard_Power BI
 
 DESCRIPTION:-
 The objective of this project is to create a comprehensive and visually appealing dashboard that provides valuable insights into the effectiveness of sales strategies for a supermarket. The project can be divided into the following components:
