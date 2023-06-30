@@ -1,7 +1,7 @@
 # Superstore Sales Dashboard by Power BI
 
 DESCRIPTION:-
-The objective of this project is to create a comprehensive and visually appealing dashboard that provides valuable insights into the effectiveness of sales strategies for a supermarket. The project can be divided into the following components:
+The objective of this project is to create a comprehensive and visually appealing dashboard that provides valuable insights into the effectiveness of sales strategies for a supermarket. The project can be divided into the following components
 
 1)Dashboard Creation: We will identify the key performance indicators (KPIs) that are crucial for evaluating the supermarket's sales strategies. With a focus on user experience, we will design an intuitive and visually appealing dashboard. The dashboard will include interactive visualizations and filtering capabilities, allowing users to explore the data at different levels of detail and granularity.
 
